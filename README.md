@@ -4,7 +4,7 @@ An AI-driven Natural Language Interface for querying supply chain data, demonstr
 
 ## 🌟 Key Features
 - **Natural Language Querying**: Ask questions about orders, risk, and financials in plain English.
-- **Dual-Mode Generation**: Automatically selects between **Python** (Pandas) for complex analysis and **SQL** (DuckDB) for efficient retrieval.
+- **Dual-Mode Generation**: Automatically selects between **Python** (Pandas) for complex analysis and **SQL** (DuckDB) for efficient retrieval
 
 ## 💡 Sample Queries
 Try these queries to explore the dataset:
